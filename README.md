@@ -28,3 +28,5 @@
 
 - Week 1 - PA 1 - Building a Recurrent Neural Network - Step by Step
 - Week 1 - PA 2 - Character level language model - Dinosaurus land
+
+![image](https://user-images.githubusercontent.com/55267125/107483517-34887280-6ba7-11eb-83d8-b9d649dae890.png)
